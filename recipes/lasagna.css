@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+}
+
+a {
+    font-size: 20px;
+    background-color: green;
+    display: inline-block;
+    color: white;
+    padding: 8px 20px;
+}
+
+h1 {
+    font-size: 80px;
+    color: green;
+}
+
+img {
+    width: 500px;
+    height: 450px;
+}
+
+h3 {
+    font-size: 25px;
+    color: #38b000;
+}
+
+p {
+    font-weight: 200;
+    font-size: 18px;
+    color: #006400;
+}
+
+ul li {
+    color: #006400;
+    font-size: 20px;
+}
+
+ol li {
+    color: #004b23;
+    font-size: 20px;
+}

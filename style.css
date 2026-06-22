@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+}
+
+h1 {
+    font-size: 80px;
+    font-weight: bold;
+    color: green;
+}
+
+ul li {
+    display: inline-block;
+}
+ul li a {
+    padding: 0 18px;
+    color: limegreen;
+}
